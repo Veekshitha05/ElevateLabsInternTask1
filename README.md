@@ -37,11 +37,11 @@ Identify and remove duplicate records
 Clone the repository:
 
 
-git clone https://github.com/your-username/data-cleaning-pandas.git
-Create a virtual environment :
+git clone https://github.com/Veekshitha05/ElevateLabsInternTask1.git 
 
-
+### Create a virtual environment :
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install the required dependencies:
 
